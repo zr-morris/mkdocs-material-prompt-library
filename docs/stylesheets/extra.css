@@ -1,0 +1,21 @@
+:root {
+    --md-primary-fg-color:        #00338D; /* KPMG Blue */
+    --md-primary-fg-color--light: #0073E6; /* Cobalt Blue */
+    --md-primary-fg-color--dark:  #00205B; /* Dark Blue */
+}
+
+/* Style for markdown code blocks */
+.md-typeset pre {
+    max-height: 700px; /* Set the maximum height for code blocks */
+    overflow-y: auto; /* Add vertical scroll bar when content exceeds max height */
+    border: 1px solid var(--md-primary-fg-color); /* Optional: adds border using primary color */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Optional: adds subtle shadow for depth */
+    border-radius: 4px; /* Optional: rounds the corners of the code block */
+}
+
+/* Center the image on the page*/
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

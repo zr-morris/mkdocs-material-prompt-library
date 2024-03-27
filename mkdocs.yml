@@ -1,0 +1,28 @@
+site_name: KPMG Auditchat
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  # Use this line if you want to specify a logo image
+  logo: assets/images/kpmg-icon.png
+  # Specify the favicon file path here
+  favicon: assets/images/kpmg-icon.png
+
+extra_css:
+  - stylesheets/extra.css
+
+
+
+
+
+
+
+  
