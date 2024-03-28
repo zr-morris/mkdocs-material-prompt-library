@@ -2,6 +2,7 @@
 
 This template is designed to guide users in transforming their audit file review notes into clearer, more actionable, and professionally polished insights. Leveraging advanced NLP techniques, this template facilitates the refinement of review notes to meet professional auditing standards.
 
+![AI woman](assets/images/ai_woman.png "Better Review Notes")
 
 ## Objective
 
